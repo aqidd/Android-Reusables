@@ -86,7 +86,7 @@ public class MainFragment extends Fragment {
     private void initUI() {
         ctx = Build.VERSION.SDK_INT >= Build.VERSION_CODES.M ? getContext() : getActivity().getBaseContext();
         // loader content
-        agivLoader.setAnimatedGif(R.raw.load_circular, AnimatedGifImageView.TYPE.AS_IS);
+        agivLoader.setAnimatedGif(R.raw.load_cat, AnimatedGifImageView.TYPE.AS_IS);
         agivLoader.setVisibility(View.VISIBLE);
         llError.setVisibility(View.GONE);
         tvEmptyData.setVisibility(View.GONE);
