@@ -1,4 +1,4 @@
-##Android Auth Screens & Flow
+##Android full text fragments
 
 A simple authentication kickstart containing fragments ( Fragments managing FullTextAreaFragment )
 
@@ -8,8 +8,7 @@ A simple authentication kickstart containing fragments ( Fragments managing Full
 
 ### how to use : 
 
-1. copy LoginFragment to fragment package
-2. copy FullTextAreaFragment
-3. edit Android Manifest to fragments
-4. check for TODO tags
-5. rename / refactor / edit the code as you please
+1. copy FullTextAreaFragment to fragments package
+2. edit Android Manifest to fragments
+3. check for TODO tags
+4. rename / refactor / edit the code as you please
