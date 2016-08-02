@@ -1,10 +1,7 @@
 ##Android full text fragments
 
-A simple authentication kickstart containing fragments ( Fragments managing FullTextAreaFragment )
+The full text area fragments using for displayed edit text in fullscreen with character counter
 
-### prerequisites :
-
-* Fragments for full text area
 
 ### how to use : 
 
